@@ -1,3 +1,5 @@
+![](/QuikZIV/Resources/Logo.png)
+
 QuikZIV
 -------
 
